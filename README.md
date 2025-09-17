@@ -41,7 +41,7 @@ Each solution includes:
 
 | Level | Completed |
 |-------|-----------|
-| 8 kyu | 2 |
+| 8 kyu | 3 |
 | 7 kyu | 0 |
 | 6 kyu | 0 |
 | 5 kyu | 0 |
